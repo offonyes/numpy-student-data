@@ -12,7 +12,7 @@ This Python script analyzes student data to find various statistics such as high
 1. Clone the repository:
 
     ```
-    git clone https://github.com/yourusername/numpy-student-data.git
+    git clone https://github.com/offonyes/numpy-student-data
     ```
 
 2. Navigate to the project directory:
